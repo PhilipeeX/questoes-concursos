@@ -20,6 +20,7 @@ Uma área administrativa estará disponível para os administradores do sistema 
 ### Recursos Adicionais: 
 Podem ser implementados recursos adicionais, como temporizador para as respostas, ranking de usuários, dicas para as perguntas, entre outros.
 
+
 ## Tecnologias Utilizadas
 Ruby 3.0.2
 Rails 7.0.5
