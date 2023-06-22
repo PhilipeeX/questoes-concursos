@@ -1,6 +1,7 @@
 # Site de Perguntas de Concurso (Em Construção)
 Este é um projeto em desenvolvimento para criar um site de perguntas de concurso. A finalidade é fornecer uma plataforma onde os candidatos possam treinar e se preparar para provas de concursos públicos.
 
+
 ## Funcionalidades Futuras
 ### Autenticação de Usuários: 
 Os usuários poderão criar contas e fazer login para acessar recursos exclusivos do site.
